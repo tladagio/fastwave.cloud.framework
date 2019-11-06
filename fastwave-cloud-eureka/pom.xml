@@ -9,7 +9,7 @@
 		<relativePath>../parent/pom.xml</relativePath>
 	</parent>
 
-	<artifactId>company-cloud-eureka</artifactId>
+	<artifactId>fastwave-cloud-eureka</artifactId>
 	<packaging>jar</packaging>
 
 	<properties>
